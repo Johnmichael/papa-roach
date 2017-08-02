@@ -9,3 +9,18 @@ padding: 25px;
   float: right;
   padding: 25px;
 }
+
+.title {
+  text-align: center;
+
+}
+
+.sidebar {
+  float: right;
+  background-color: yellow;
+  margin-bottom: 25px;
+  height: inherit;
+  padding-bottom: -15px
+
+
+}
