@@ -18,9 +18,13 @@ padding: 25px;
 .sidebar {
   float: right;
   background-color: yellow;
-  margin-bottom: 25px;
+  margin: 5px;
   height: inherit;
-  padding-bottom: -15px
+  padding: 10px;
+  border: dotted pink 5px;
 
+}
 
+.clickhere {
+  text-align: center;
 }
